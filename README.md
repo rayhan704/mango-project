@@ -1,2 +1,2 @@
-# mango-project
+# mango-server
 Organic Product Service
